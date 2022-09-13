@@ -58,6 +58,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
+*.meta
 *.app
 
 # Crashlytics generated file
